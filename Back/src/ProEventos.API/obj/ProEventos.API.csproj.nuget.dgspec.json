@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Dev\\trabalho\\angular\\CursoUdemy\\Projeto\\Back\\src\\ProEventos.API\\ProEventos.API.csproj": {}
+    "C:\\Dev\\trabalho\\angular\\CursoUdemy\\FullStackAngularDotNet\\Back\\src\\ProEventos.API\\ProEventos.API.csproj": {}
   },
   "projects": {
-    "C:\\Dev\\trabalho\\angular\\CursoUdemy\\Projeto\\Back\\src\\ProEventos.API\\ProEventos.API.csproj": {
+    "C:\\Dev\\trabalho\\angular\\CursoUdemy\\FullStackAngularDotNet\\Back\\src\\ProEventos.API\\ProEventos.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dev\\trabalho\\angular\\CursoUdemy\\Projeto\\Back\\src\\ProEventos.API\\ProEventos.API.csproj",
+        "projectUniqueName": "C:\\Dev\\trabalho\\angular\\CursoUdemy\\FullStackAngularDotNet\\Back\\src\\ProEventos.API\\ProEventos.API.csproj",
         "projectName": "ProEventos.API",
-        "projectPath": "C:\\Dev\\trabalho\\angular\\CursoUdemy\\Projeto\\Back\\src\\ProEventos.API\\ProEventos.API.csproj",
+        "projectPath": "C:\\Dev\\trabalho\\angular\\CursoUdemy\\FullStackAngularDotNet\\Back\\src\\ProEventos.API\\ProEventos.API.csproj",
         "packagesPath": "C:\\Users\\Paixão\\.nuget\\packages\\",
-        "outputPath": "C:\\Dev\\trabalho\\angular\\CursoUdemy\\Projeto\\Back\\src\\ProEventos.API\\obj\\",
+        "outputPath": "C:\\Dev\\trabalho\\angular\\CursoUdemy\\FullStackAngularDotNet\\Back\\src\\ProEventos.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Paixão\\AppData\\Roaming\\NuGet\\NuGet.Config"
